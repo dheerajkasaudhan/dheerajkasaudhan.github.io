@@ -416,6 +416,9 @@ header .navbar ul li a:hover{
 .fa-github{
     color: black;
 }
+.fa-twitter{
+    color: blue;
+}
 .top{
     position: fixed;
     bottom:7.5rem; right: 2rem;
