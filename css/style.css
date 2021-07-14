@@ -409,6 +409,9 @@ header .navbar ul li a:hover{
 .fa-instagram{
     color: #e84393;
 }
+.fa-twitter{
+    color: #0097e6;
+}
 
 .fa-hackerrank{
     color: green;
@@ -416,9 +419,7 @@ header .navbar ul li a:hover{
 .fa-github{
     color: black;
 }
-.fa-twitter{
-    color: #0097e6;
-}
+
 .top{
     position: fixed;
     bottom:7.5rem; right: 2rem;
