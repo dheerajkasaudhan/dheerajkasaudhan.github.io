@@ -29,14 +29,14 @@
 .home{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(/images/campus.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),url(/images/campus.jpeg);
     background-size: cover;
     background-position: center;
 }
 .about{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(/images/IMG-20190522-WA0012.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),url(/images/IMG-20190522-WA0012.jpg);
     background-size: cover;
     background-position: center;
 }
