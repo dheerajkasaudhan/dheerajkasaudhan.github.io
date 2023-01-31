@@ -29,7 +29,7 @@
 .home{
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),url(/images/a1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.55),rgba(0,0,0,0.55)),url(/images/dl-t-logo-1016-en.jpg);
     background-size: cover;
     background-position: center;
 }
